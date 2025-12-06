@@ -32,3 +32,4 @@ This repository contains my coursework and projects for **BADM 554**, demonstrat
 *   **Databases:** MongoDB (NoSQL), PostgreSQL (via Dune)
 *   **Languages:** Python, SQL
 *   **ETL Tools:** KNIME Analytics Platform, Google Colab
+*   **Visualization:** Dune
